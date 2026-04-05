@@ -23,7 +23,7 @@ The project showcases advanced SQL capabilities, including:
 * **Subqueries:** Advanced data retrieval for business analytics (e.g., identifying high-calorie dishes or frequent customers).
 * **Database Views:** Implementation of views like `Order_Report` and `Category_Stats` for simplified data access.
 
-## 4. Technical Stack
+## 4. Technologies Used
 * **Language:** SQL (Structured Query Language)
 * **Tools:** Command Line Interface / MySQL Workbench
 
