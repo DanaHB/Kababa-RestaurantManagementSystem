@@ -25,7 +25,7 @@ The project showcases advanced SQL capabilities, including:
 
 ## 4. Technologies Used
 * **Language:** SQL (Structured Query Language)
-* **Tools:** Command Line Interface / MySQL Workbench
+* **Tools:** MySQL Workbench
 
 
 ## 6. Project Documentation
